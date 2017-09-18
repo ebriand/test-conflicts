@@ -5,6 +5,6 @@ export default {
   const chicken = "chicken"
 
   chicken() {
-    return "chicken"
+    return "chicken!"
   }
 }
